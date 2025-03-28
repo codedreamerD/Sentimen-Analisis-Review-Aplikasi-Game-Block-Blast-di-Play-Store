@@ -25,4 +25,4 @@ Dari proyek ini, kita berharap dapat:
 ✅ Mengidentifikasi **fitur yang paling disukai atau dikeluhkan** oleh pengguna.  
 ✅ Memberikan rekomendasi berbasis data untuk **pengembangan dan perbaikan game di masa depan**.  
 
-Melalui proyek ini, kita akan mendapatkan pemahaman mendalam tentang bagaimana analisis sentimen dapat membantu dalam dunia digital, khususnya di industri game. **Mari kita mulai eksplorasi sentimen di balik ulasan pengguna Block Blast!** 🎮🚀
+Melalui proyek ini, kita akan mendapatkan pemahaman mendalam tentang bagaimana analisis sentimen dapat membantu dalam dunia digital, khususnya di industri game.
